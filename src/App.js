@@ -15,8 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          MERN Stack Course
-          Mern New Line
+          MERN Stack Course 
+          Mern New Line Some new additions in same line
         </a>
       </header>
     </div>
