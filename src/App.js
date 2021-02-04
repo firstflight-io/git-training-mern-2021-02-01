@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           MERN Stack Course
-          Mern New Line
+          Mern New Line Some changes in this line
         </a>
       </header>
     </div>
